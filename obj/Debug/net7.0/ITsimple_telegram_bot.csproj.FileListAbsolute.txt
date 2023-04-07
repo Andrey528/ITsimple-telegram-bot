@@ -1,0 +1,17 @@
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\bin\Debug\net7.0\ITsimple_telegram_bot.exe
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\bin\Debug\net7.0\ITsimple_telegram_bot.deps.json
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\bin\Debug\net7.0\ITsimple_telegram_bot.runtimeconfig.json
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\bin\Debug\net7.0\ITsimple_telegram_bot.dll
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\bin\Debug\net7.0\ITsimple_telegram_bot.pdb
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\ITsimple_telegram_bot.csproj.AssemblyReference.cache
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\ITsimple_telegram_bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\ITsimple_telegram_bot.AssemblyInfoInputs.cache
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\ITsimple_telegram_bot.AssemblyInfo.cs
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\ITsimple_telegram_bot.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\ITsimple_telegram_bot.dll
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\refint\ITsimple_telegram_bot.dll
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\ITsimple_telegram_bot.pdb
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\ITsimple_telegram_bot.genruntimeconfig.cache
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\ref\ITsimple_telegram_bot.dll
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Jack\Desktop\ITsimple_telegram_bot\obj\Debug\net7.0\ITsimple_telegram_bot.csproj.CopyComplete

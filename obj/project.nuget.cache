@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ga9mJEMBgz5E0BskapsE4NtdmWbtszrElGwsIBhUbQYeuFYYD+xkDgIXG3I+8O6BqdpJCZWRwNQPxg1MBBw6pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jack\\Desktop\\ITsimple_telegram_bot\\ITsimple_telegram_bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jack\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
